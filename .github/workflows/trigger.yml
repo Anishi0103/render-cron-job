@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger GET request to Render
-        run: curl -s https://your-render-site.onrender.com/get-tokens
+        run: curl -s https://playwright-spotify-token-1.onrender.com/get-tokens
